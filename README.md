@@ -14,4 +14,4 @@ Small language models (SLMs), despite their widespread adoption in modern smart 
 - The survey mainly focuses on the base knowledge obtained from pre-training process, thereby we only collect the base models of SLMs, except those provided only the instruct versions (Microsoft Phi and StabilityAI StableLM). We also exclude models that are fine-tuned on other pre-trained models.
 
 ## Overview of SLMs
-<embed src="figs/Figure-1-[An%20overview%20of%20SLMs].pdf" type="application/pdf" width="100%" height="600px" />
+![Overview of SLMs](figs/Figure-1-[An%20overview%20of%20SLMs].png)

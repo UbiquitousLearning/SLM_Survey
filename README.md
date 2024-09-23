@@ -14,4 +14,18 @@ Small language models (SLMs), despite their widespread adoption in modern smart 
 - The survey mainly focuses on the base knowledge obtained from pre-training process, thereby we only collect the base models of SLMs, except those provided only the instruct versions (Microsoft Phi and StabilityAI StableLM). We also exclude models that are fine-tuned on other pre-trained models.
 
 ## Overview of SLMs
-![Overview of SLMs](figs/Figure-1-[An%20overview%20of%20SLMs].png)
+![Overview of SLMs](figs/overview.png)
+
+<!-- ## SLM Architecture and Datasets
+- The architecture
+![SLM Architecture](figs/Figure-2b-[The%20architecture%20analysis%20of%20the%20SLM]-1.png)
+
+- The usage frequency of datasets from 2022 to 2024
+![SLM Datasets](figs/Figure-3-[The%20usage%20frequence%20of%20pre-training%20dataset]-1.png)
+
+## SLM Capabilities
+![SLM Capabilities](figs/SLM_Capabilities.png)
+
+## SLM Runtime Cost
+![SLM Runtime Cost](figs/runtime_cost.png) -->
+

@@ -16,16 +16,18 @@ Small language models (SLMs), despite their widespread adoption in modern smart 
 ## Overview of SLMs
 ![Overview of SLMs](figs/overview.png)
 
-<!-- ## SLM Architecture and Datasets
+## SLM Capabilities
+![SLM Capabilities](figs/SLM_Capabilities.png)
+
+## SLM Runtime Cost
+![SLM Runtime Cost](figs/runtime_cost.png)
+
+## SLM Architecture and Datasets
 - The architecture
 ![SLM Architecture](figs/Figure-2b-[The%20architecture%20analysis%20of%20the%20SLM]-1.png)
 
 - The usage frequency of datasets from 2022 to 2024
 ![SLM Datasets](figs/Figure-3-[The%20usage%20frequence%20of%20pre-training%20dataset]-1.png)
 
-## SLM Capabilities
-![SLM Capabilities](figs/SLM_Capabilities.png)
 
-## SLM Runtime Cost
-![SLM Runtime Cost](figs/runtime_cost.png) -->
 

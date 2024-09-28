@@ -20,7 +20,7 @@ Small language models (SLMs), despite their widespread adoption in modern smart 
 ![SLM Capabilities](figs/SLM_Capabilities.png)
 
 ## SLM Runtime Cost
-![SLM Runtime Cost](figs/runtime_cost.png)
+![SLM Runtime Cost](figs/latency_vs_parameters.png)
 
 ## SLM Architecture and Datasets
 - The architecture

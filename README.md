@@ -1,6 +1,7 @@
 # Small Language Models: Survey, Measurements, and Insights
 
 This repo contains the figures for [Small Language Models: Survey, Measurements, and Insights](https://arxiv.org/abs/2409.15790).
+Get more info on [our web page](https://ubiquitouslearning.github.io/TinyLLMLeaderBoard/#/slm).
 
 ## Abstract
 
